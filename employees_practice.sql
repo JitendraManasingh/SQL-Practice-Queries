@@ -2,8 +2,8 @@
    Project: SQL Basics Questions & Examples
    Purpose: Practice SQL from basic to advanced concepts
    Database: SQL Server (syntax can be adapted to MySQL/PostgreSQL)
-   Author: [Your Name]
-   Date: [Insert Date]
+   Author: Jitendra Kumar Manasingh
+   Date: 12-08-2025
    ============================================================= */
 
 ---------------------------------------------------------------
@@ -108,3 +108,4 @@ WHERE Department LIKE 'Finance';
 -- Q10: Select employees whose LastName starts with 'M'
 SELECT * FROM Employees
 WHERE LastName LIKE 'M%';
+
